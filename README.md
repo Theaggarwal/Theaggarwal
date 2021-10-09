@@ -2,7 +2,8 @@
 
 # 
 I am the working as a full stack software developer in India.
-🔭 I’m currently working on Angular and ASP.Net Core
+#
+🔭 I’m currently working on Angular and ASP.Net Core Application.
 
 <!--
 **Theaggarwal/Theaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
