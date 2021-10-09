@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 # 
+I am the working as a full stack software developer in India.
 🔭 I’m currently working on Angular and ASP.Net Core
 
 <!--
